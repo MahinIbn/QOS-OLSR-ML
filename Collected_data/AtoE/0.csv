@@ -1,0 +1,9 @@
+systemTime,ipAddress,symmetric,willingness,isMultiPointRelay,wasMultiPointRelay,multiPointRelaySelector,linkcount,twoHopNeighborCount,currentLinkStatus,lostLinkTime,helloTime,lossHelloInterval,lossTime,linkCost,linkQuality,neighborLinkQuality1,uplinkKbps,downlinkKbps,RSSI value,AVG RSSI value,trend,tau,Connected,
+1711543261,192.168.11.35,True,3,False,False,True,1,0,SYMMETRIC,0,0,2000,2447,1.279297,0.968,0.968,128,1024,-21,-21,0,0.0,1
+1711543263,192.168.11.35,True,3,False,False,True,1,0,SYMMETRIC,0,0,2000,2499,1.273438,0.968,0.968,128,1024,-22,-21,0,0.0,1
+1711543265,192.168.11.35,True,3,False,False,True,1,0,SYMMETRIC,0,0,2000,2700,1.267578,0.968,0.968,128,1024,-23,-21,0,0.0,1
+1711543267,192.168.11.35,True,3,False,False,True,1,0,SYMMETRIC,0,0,2000,2601,1.261719,0.968,0.968,128,1024,-23,-21,0,0.0,1.0
+1711543269,192.168.11.35,True,3,False,False,True,1,0,SYMMETRIC,0,0,2000,2650,1.256836,0.968,0.968,128,1024,-23,-21,0,0.0,1.0
+1711543271,192.168.11.35,True,3,False,False,True,1,0,SYMMETRIC,0,0,2000,2850,1.25293,0.968,0.968,128,1024,-22,-21,0,0.0,1.0
+1711543273,192.168.11.35,True,3,False,False,True,1,0,SYMMETRIC,0,0,2000,2749,1.249023,0.968,0.968,128,1024,-23,-21,0,0.0,1.0
+1711543275,192.168.11.35,True,3,False,False,True,1,0,SYMMETRIC,0,0,2000,2749,1.245117,0.968,0.968,128,1024,-22,-21,0,0.0,1.0

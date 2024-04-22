@@ -1,0 +1,6 @@
+systemTime,ipAddress,symmetric,willingness,isMultiPointRelay,wasMultiPointRelay,multiPointRelaySelector,linkcount,twoHopNeighborCount,currentLinkStatus,lostLinkTime,helloTime,lossHelloInterval,lossTime,linkCost,linkQuality,neighborLinkQuality1,uplinkKbps,downlinkKbps,RSSI value,AVG RSSI value,trend,tau,Connected,
+1712238412,192.168.11.56,False,3,False,False,False,1,0,ASYMMETRIC,0,0,2000,2598,4194304.0,0.0,0.0,128,1024,-88,-86,0,0.0,0.0
+1712238414,192.168.11.56,False,3,False,False,False,1,0,ASYMMETRIC,0,0,2000,594,4194304.0,0.0,0.0,128,1024,-87,-86,0,0.0,0.0
+1712238416,192.168.11.56,False,3,False,False,False,1,0,ASYMMETRIC,0,0,2000,596,4194304.0,0.0,0.0,128,1024,-87,-86,0,0.0,0.0
+1712238418,192.168.11.56,False,3,False,False,False,1,0,ASYMMETRIC,0,0,2000,591,4194304.0,0.0,0.0,128,1024,-87,-86,0,0.0,0.0
+1712238420,192.168.11.56,False,3,False,False,False,1,0,ASYMMETRIC,0,0,2000,596,4194304.0,0.0,0.0,128,1024,-87,-86,0,0.0,0.0
