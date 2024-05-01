@@ -1,4 +1,4 @@
-# QOS-OLSR-ML
+# QOS-OLSR3.0-ML
 
 Version Highlights:
 1. ML Model: GRU with a convolutional layer.
