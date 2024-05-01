@@ -1,0 +1,452 @@
+PING 192.168.11.56 (192.168.11.56) 56(124) bytes of data.
+64 bytes from 192.168.11.56: icmp_seq=1 ttl=63 time=6.88 ms
+RR: 	192.168.11.199
+	192.168.11.56
+	192.168.11.56
+	192.168.11.75
+	192.168.11.199
+
+64 bytes from 192.168.11.56: icmp_seq=2 ttl=63 time=5.01 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=3 ttl=63 time=2.53 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=4 ttl=63 time=3.17 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=5 ttl=63 time=2.79 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=6 ttl=63 time=5.67 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=8 ttl=63 time=109 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=9 ttl=63 time=3.60 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=10 ttl=63 time=3.74 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=11 ttl=63 time=3.88 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=12 ttl=63 time=3.10 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=13 ttl=63 time=3.58 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=14 ttl=63 time=4.31 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=15 ttl=63 time=3.80 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=16 ttl=63 time=2.97 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=17 ttl=62 time=7.30 ms
+RR: 	192.168.11.199
+	192.168.11.56
+	192.168.11.56
+	192.168.11.35
+	192.168.11.75
+	192.168.11.199
+
+64 bytes from 192.168.11.56: icmp_seq=18 ttl=62 time=7.50 ms
+RR: 	192.168.11.199
+	192.168.11.75
+	192.168.11.35
+	192.168.11.56
+	192.168.11.56
+	192.168.11.35
+	192.168.11.75
+	192.168.11.199
+
+64 bytes from 192.168.11.56: icmp_seq=19 ttl=62 time=7.98 ms
+RR: 	192.168.11.199
+	192.168.11.47
+	192.168.11.75
+	192.168.11.35
+	192.168.11.56
+	192.168.11.56
+	192.168.11.35
+	192.168.11.75
+	192.168.11.199
+
+64 bytes from 192.168.11.56: icmp_seq=20 ttl=62 time=6.38 ms
+RR: 	192.168.11.199
+	192.168.11.75
+	192.168.11.35
+	192.168.11.56
+	192.168.11.56
+	192.168.11.35
+	192.168.11.75
+	192.168.11.199
+
+64 bytes from 192.168.11.56: icmp_seq=21 ttl=62 time=6.33 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=22 ttl=62 time=5.15 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=23 ttl=62 time=7.85 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=24 ttl=62 time=6.27 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=25 ttl=62 time=6.21 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=26 ttl=62 time=6.85 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=27 ttl=62 time=6.83 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=28 ttl=62 time=4.50 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=29 ttl=63 time=6.57 ms
+RR: 	192.168.11.199
+	192.168.11.75
+	192.168.11.35
+	192.168.11.56
+	192.168.11.56
+	192.168.11.47
+	192.168.11.199
+
+64 bytes from 192.168.11.56: icmp_seq=30 ttl=63 time=33.0 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=31 ttl=63 time=7.29 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=32 ttl=63 time=4.43 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=33 ttl=63 time=106 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=34 ttl=63 time=10.6 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=35 ttl=63 time=6.33 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=36 ttl=64 time=2.54 ms
+RR: 	192.168.11.199
+	192.168.11.56
+	192.168.11.56
+	192.168.11.199
+
+64 bytes from 192.168.11.56: icmp_seq=37 ttl=64 time=2.95 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=38 ttl=64 time=1.68 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=39 ttl=64 time=1.65 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=40 ttl=64 time=2.54 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=41 ttl=64 time=3.46 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=42 ttl=64 time=2.36 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=43 ttl=64 time=1.98 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=44 ttl=64 time=1.61 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=45 ttl=64 time=2.54 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=46 ttl=64 time=1.62 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=47 ttl=64 time=3.61 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=48 ttl=64 time=2.34 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=49 ttl=64 time=4.04 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=50 ttl=64 time=2.67 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=51 ttl=64 time=2.48 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=52 ttl=64 time=4.16 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=53 ttl=64 time=2.40 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=54 ttl=64 time=2.75 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=55 ttl=64 time=24.6 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=56 ttl=64 time=16.4 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=57 ttl=64 time=2.74 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=58 ttl=64 time=5.91 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=59 ttl=64 time=2.58 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=60 ttl=64 time=2.69 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=61 ttl=64 time=2.84 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=62 ttl=64 time=2.55 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=63 ttl=64 time=3.12 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=64 ttl=64 time=2.22 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=65 ttl=64 time=2.66 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=66 ttl=64 time=2.22 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=67 ttl=64 time=2.90 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=68 ttl=64 time=3.62 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=69 ttl=64 time=2.57 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=70 ttl=64 time=3.64 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=71 ttl=64 time=3.14 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=72 ttl=64 time=2.57 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=73 ttl=64 time=2.51 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=74 ttl=64 time=2.43 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=75 ttl=64 time=2.79 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=76 ttl=64 time=3.53 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=77 ttl=64 time=1.98 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=78 ttl=64 time=1.87 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=79 ttl=64 time=2.36 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=80 ttl=64 time=18.5 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=81 ttl=64 time=3.64 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=82 ttl=64 time=2.02 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=83 ttl=64 time=1.60 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=84 ttl=64 time=5.18 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=85 ttl=64 time=2.91 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=86 ttl=64 time=2.49 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=87 ttl=64 time=3.38 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=88 ttl=64 time=4.28 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=89 ttl=64 time=1.57 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=90 ttl=64 time=1.53 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=91 ttl=64 time=11.0 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=92 ttl=64 time=3.65 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=93 ttl=64 time=2.95 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=94 ttl=64 time=1.99 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=95 ttl=64 time=1.91 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=96 ttl=64 time=2.69 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=97 ttl=64 time=1.61 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=98 ttl=64 time=11.2 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=99 ttl=64 time=1.59 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=100 ttl=64 time=2.27 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=101 ttl=64 time=1.53 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=102 ttl=64 time=1.52 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=103 ttl=64 time=1.64 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=104 ttl=64 time=3.17 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=105 ttl=64 time=23.3 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=106 ttl=64 time=1.65 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=107 ttl=64 time=3.14 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=108 ttl=64 time=2.44 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=109 ttl=64 time=1.67 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=110 ttl=64 time=1.53 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=111 ttl=64 time=1.49 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=112 ttl=64 time=2.45 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=113 ttl=64 time=3.64 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=114 ttl=64 time=2.17 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=115 ttl=64 time=1.96 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=116 ttl=64 time=1.61 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=117 ttl=64 time=2.41 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=118 ttl=64 time=1.96 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=119 ttl=64 time=4.33 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=120 ttl=64 time=14.1 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=121 ttl=64 time=2.92 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=122 ttl=64 time=2.63 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=123 ttl=64 time=12.6 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=124 ttl=64 time=11.9 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=125 ttl=64 time=24.4 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=126 ttl=64 time=2.95 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=127 ttl=64 time=2.64 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=128 ttl=64 time=3.65 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=129 ttl=64 time=2.28 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=130 ttl=64 time=10.1 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=132 ttl=64 time=132 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=134 ttl=64 time=108 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=137 ttl=64 time=112 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=138 ttl=64 time=2.66 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=139 ttl=64 time=3.95 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=140 ttl=64 time=20.3 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=141 ttl=64 time=22.0 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=142 ttl=64 time=2.76 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=143 ttl=64 time=2.87 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=144 ttl=64 time=6.36 ms
+RR: 	192.168.11.199
+	192.168.11.47
+	192.168.11.56
+	192.168.11.56
+	192.168.11.199
+
+64 bytes from 192.168.11.56: icmp_seq=145 ttl=64 time=3.48 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=146 ttl=64 time=3.53 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=147 ttl=64 time=2.73 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=148 ttl=63 time=4.89 ms
+RR: 	192.168.11.199
+	192.168.11.47
+	192.168.11.56
+	192.168.11.56
+	192.168.11.47
+	192.168.11.199
+
+64 bytes from 192.168.11.56: icmp_seq=149 ttl=63 time=3.80 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=150 ttl=63 time=3.70 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=151 ttl=63 time=4.41 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=152 ttl=63 time=14.2 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=153 ttl=63 time=3.76 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=154 ttl=63 time=3.62 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=155 ttl=63 time=3.67 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=156 ttl=63 time=3.61 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=157 ttl=63 time=3.81 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=158 ttl=63 time=3.63 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=159 ttl=63 time=3.32 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=160 ttl=63 time=3.94 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=161 ttl=63 time=5.34 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=162 ttl=63 time=5.81 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=163 ttl=63 time=4.16 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=164 ttl=63 time=3.34 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=165 ttl=63 time=4.47 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=166 ttl=62 time=6.90 ms
+RR: 	192.168.11.199
+	192.168.11.47
+	192.168.11.56
+	192.168.11.56
+	192.168.11.47
+	192.168.11.75
+	192.168.11.199
+
+64 bytes from 192.168.11.56: icmp_seq=167 ttl=62 time=8.19 ms
+RR: 	192.168.11.199
+	192.168.11.75
+	192.168.11.47
+	192.168.11.56
+	192.168.11.56
+	192.168.11.47
+	192.168.11.75
+	192.168.11.199
+
+64 bytes from 192.168.11.56: icmp_seq=168 ttl=62 time=6.09 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=169 ttl=62 time=9.43 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=170 ttl=62 time=6.25 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=171 ttl=62 time=6.99 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=172 ttl=62 time=11.7 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=173 ttl=62 time=5.56 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=174 ttl=62 time=6.87 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=175 ttl=62 time=4.75 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=176 ttl=62 time=5.60 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=177 ttl=62 time=22.9 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=178 ttl=62 time=20.1 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=179 ttl=62 time=5.76 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=180 ttl=62 time=30.9 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=181 ttl=62 time=5.67 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=183 ttl=63 time=6.11 ms
+RR: 	192.168.11.199
+	192.168.11.47
+	192.168.11.56
+	192.168.11.56
+	192.168.11.47
+	192.168.11.199
+
+64 bytes from 192.168.11.56: icmp_seq=184 ttl=63 time=4.41 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=185 ttl=63 time=4.93 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=186 ttl=63 time=3.56 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=187 ttl=63 time=3.72 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=188 ttl=63 time=4.41 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=189 ttl=63 time=5.76 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=190 ttl=63 time=13.7 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=192 ttl=63 time=3.40 ms
+RR: 	192.168.11.199
+	192.168.11.56
+	192.168.11.56
+	192.168.11.47
+	192.168.11.199
+
+64 bytes from 192.168.11.56: icmp_seq=193 ttl=63 time=2.39 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=194 ttl=64 time=1.62 ms
+RR: 	192.168.11.199
+	192.168.11.56
+	192.168.11.56
+	192.168.11.199
+
+64 bytes from 192.168.11.56: icmp_seq=195 ttl=64 time=2.61 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=196 ttl=64 time=1.67 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=197 ttl=64 time=2.87 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=198 ttl=64 time=1.60 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=199 ttl=64 time=1.89 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=200 ttl=64 time=1.66 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=201 ttl=64 time=1.85 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=202 ttl=64 time=2.45 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=203 ttl=64 time=2.52 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=204 ttl=64 time=7.11 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=205 ttl=64 time=2.21 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=206 ttl=64 time=67.7 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=207 ttl=64 time=13.6 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=208 ttl=64 time=20.5 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=209 ttl=64 time=2.48 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=210 ttl=64 time=3.32 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=211 ttl=64 time=3.11 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=212 ttl=64 time=2.52 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=213 ttl=64 time=2.68 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=214 ttl=64 time=2.45 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=215 ttl=64 time=3.21 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=216 ttl=64 time=5.08 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=217 ttl=64 time=11.0 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=218 ttl=63 time=3.18 ms
+RR: 	192.168.11.199
+	192.168.11.56
+	192.168.11.56
+	192.168.11.35
+	192.168.11.199
+
+64 bytes from 192.168.11.56: icmp_seq=219 ttl=63 time=17.0 ms
+RR: 	192.168.11.199
+	192.168.11.35
+	192.168.11.56
+	192.168.11.56
+	192.168.11.35
+	192.168.11.199
+
+64 bytes from 192.168.11.56: icmp_seq=220 ttl=63 time=3.91 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=221 ttl=63 time=22.6 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=222 ttl=63 time=13.5 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=223 ttl=63 time=4.07 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=224 ttl=63 time=3.92 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=225 ttl=63 time=4.69 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=226 ttl=63 time=3.31 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=227 ttl=63 time=4.29 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=228 ttl=63 time=9.14 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=229 ttl=63 time=13.4 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=230 ttl=63 time=23.7 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=232 ttl=63 time=114 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=233 ttl=63 time=4.21 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=234 ttl=63 time=4.92 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=235 ttl=63 time=40.8 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=236 ttl=63 time=25.5 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=237 ttl=63 time=14.6 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=238 ttl=63 time=13.1 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=239 ttl=63 time=7.90 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=240 ttl=63 time=96.0 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=241 ttl=63 time=70.2 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=242 ttl=63 time=14.3 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=243 ttl=63 time=5.48 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=244 ttl=63 time=4.87 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=245 ttl=63 time=4.57 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=246 ttl=63 time=5.35 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=247 ttl=63 time=28.3 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=248 ttl=63 time=8.51 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=256 ttl=63 time=120 ms
+RR: 	192.168.11.199
+	192.168.11.75
+	192.168.11.56
+	192.168.11.56
+	192.168.11.75
+	192.168.11.199
+
+64 bytes from 192.168.11.56: icmp_seq=258 ttl=63 time=120 ms
+RR: 	192.168.11.199
+	192.168.11.35
+	192.168.11.56
+	192.168.11.56
+	192.168.11.75
+	192.168.11.199
+
+64 bytes from 192.168.11.56: icmp_seq=259 ttl=63 time=5.33 ms
+RR: 	192.168.11.199
+	192.168.11.35
+	192.168.11.56
+	192.168.11.56
+	192.168.11.35
+	192.168.11.199
+
+64 bytes from 192.168.11.56: icmp_seq=260 ttl=63 time=20.7 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=261 ttl=64 time=14.4 ms
+RR: 	192.168.11.199
+	192.168.11.35
+	192.168.11.56
+	192.168.11.56
+	192.168.11.199
+
+64 bytes from 192.168.11.56: icmp_seq=264 ttl=64 time=40.6 ms
+RR: 	192.168.11.199
+	192.168.11.56
+	192.168.11.56
+	192.168.11.199
+
+64 bytes from 192.168.11.56: icmp_seq=271 ttl=64 time=172 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=272 ttl=64 time=13.3 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=273 ttl=64 time=2.17 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=274 ttl=64 time=13.3 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=275 ttl=64 time=65.8 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=276 ttl=64 time=110 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=277 ttl=64 time=15.4 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=279 ttl=64 time=148 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=280 ttl=64 time=3.07 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=281 ttl=64 time=3.84 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=282 ttl=64 time=2.61 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=283 ttl=64 time=3.12 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=284 ttl=64 time=2.61 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=285 ttl=64 time=3.22 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=286 ttl=64 time=3.60 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=287 ttl=64 time=2.38 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=289 ttl=61 time=5.69 ms
+RR: 	192.168.11.199
+	192.168.11.56
+	192.168.11.56
+	192.168.11.35
+	192.168.11.75
+	192.168.11.47
+	192.168.11.199
+
+64 bytes from 192.168.11.56: icmp_seq=290 ttl=61 time=5.85 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=291 ttl=61 time=7.15 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=292 ttl=61 time=5.95 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=293 ttl=61 time=8.62 ms
+RR: 	192.168.11.199
+	192.168.11.75
+	192.168.11.35
+	192.168.11.56
+	192.168.11.56
+	192.168.11.35
+	192.168.11.75
+	192.168.11.47
+	192.168.11.199
+
+64 bytes from 192.168.11.56: icmp_seq=294 ttl=61 time=6.45 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=295 ttl=61 time=8.59 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=296 ttl=61 time=21.5 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=297 ttl=61 time=10.3 ms
+RR: 	192.168.11.199
+	192.168.11.56
+	192.168.11.56
+	192.168.11.35
+	192.168.11.75
+	192.168.11.47
+	192.168.11.199
+
+64 bytes from 192.168.11.56: icmp_seq=298 ttl=61 time=5.47 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=299 ttl=61 time=5.61 ms	(same route)
+64 bytes from 192.168.11.56: icmp_seq=300 ttl=61 time=10.0 ms	(same route)
+
+--- 192.168.11.56 ping statistics ---
+300 packets transmitted, 274 received, 8.66667% packet loss, time 299931ms
+rtt min/avg/max/mdev = 1.486/11.975/171.959/25.291 ms
